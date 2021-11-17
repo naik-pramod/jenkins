@@ -1,5 +1,5 @@
 # Continuous Integration
-Continuous Integration is a development practice where all developers in a team make changes to the code base regularly
+Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control.
 
 # jenkins
 
